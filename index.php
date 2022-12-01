@@ -16,7 +16,7 @@ function getVote(int) {
 <body>
 <div id="poll">
 <h3>Who is it?</h3>
-<img width="25%" height="50%" src="uploads/nicolas.png"/>
+<img width="50%" height="50%" src="uploads/nicolas.png"/>
 <form>
 nicolas: <input type="radio" name="vote" value="0" onclick="getVote(this.value)"><br>
 Quinton
